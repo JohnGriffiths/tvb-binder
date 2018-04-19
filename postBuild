@@ -2,5 +2,4 @@ git clone https://github.com/the-virtual-brain/tvb-library
 git clone https://github.com/the-virtual-brain/tvb-data
 git clone https://github.com/the-virtual-brain/tvb-documentation
 
-export PYTHONPATH=$PYTHONPATH:$HOME/tvb-library
-export PYTHONPATH=$PYTHONPATH:$HOME/tvb-data
+cp tvb.pth /srv/venv/lib/python3.6/site-packages/
