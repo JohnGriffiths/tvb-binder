@@ -1,0 +1,12 @@
+scipy
+numpy
+pandas
+matplotlib
+seaborn
+joblib
+jupyter
+ipython
+numexpr 
+numba 
+networkx
+cython
